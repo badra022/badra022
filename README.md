@@ -1,7 +1,8 @@
 ### Hi there, I'm Ahmed - aka Badra 👋
+[![Linkedin: Ahmed Badra](https://img.shields.io/badge/-Ahmed_Badra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-badra-490b7b165/)](https://www.linkedin.com/in/ahmed-badra-490b7b165/)
 
 <div align="center">
-    <img width="300px" alt="hello GIF" src="https://cdn.dribbble.com/users/84109/screenshots/2811872/robot.gif">
+    <img width="500px" alt="hello GIF" src="https://cdn.dribbble.com/users/84109/screenshots/2811872/robot.gif">
 </div>
 
 ## I'm egyptain junior biomedical engineering undergraduate in cairo university
@@ -10,16 +11,13 @@
 - 👯 I’m looking to collaborate with other embedded software open source developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Connect with me:
-
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="badra069" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/inahmed-badra-490b7b165/)
+<!-- [<img align="left" alt="badra069" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ahmed-badra-490b7b165/) -->
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<br />
-
 ### Languages and Tools:
+
 <img align="left" alt="python" width="26px" src="https://e-globalacademy.com/wp-content/uploads/2021/01/Python.svg_.png" />
 <img align="left" alt="c++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
