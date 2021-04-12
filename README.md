@@ -1,4 +1,4 @@
-### Hi there, I'm Ahmed - aka Badra 👋
+### Hi there, I'm Ahmed Mohamed - aka Badra 👋
 [![Linkedin: Ahmed Badra](https://img.shields.io/badge/-Ahmed_Badra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-badra-490b7b165/)](https://www.linkedin.com/in/ahmed-badra-490b7b165/)
 
 <div align="center">
