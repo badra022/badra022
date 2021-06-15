@@ -5,10 +5,9 @@
     <img width="500px" alt="hello GIF" src="https://cdn.dribbble.com/users/84109/screenshots/2811872/robot.gif">
 </div>
 
-## I'm egyptain junior biomedical engineering undergraduate in cairo university
+## junior biomedical engineering undergraduate in cairo university
 
-- 🌱 I’m currently learning RTOS
-- 👯 I’m looking to collaborate with other embedded software open source developers
+- 🌱 I’m currently having class exams
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -18,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://e-globalacademy.com/wp-content/uploads/2021/01/Python.svg_.png" />
+<img align="left" alt="python" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw0u1IRa5Trf7M1TYloINlxP&ust=1623875365629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODRg6W9mvECFQAAAAAdAAAAABAD" />
 <img align="left" alt="c++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="embedded systems" width="26px" src="https://micro.ros.org/img/logonav.png" />
