@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw0u1IRa5Trf7M1TYloINlxP&ust=1623875365629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODRg6W9mvECFQAAAAAdAAAAABAD" />
+<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="c++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="embedded systems" width="26px" src="https://micro.ros.org/img/logonav.png" />
