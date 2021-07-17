@@ -5,7 +5,7 @@
     <img width="500px" alt="hello GIF" src="https://cdn.dribbble.com/users/84109/screenshots/2811872/robot.gif">
 </div>
 
-## junior biomedical engineering undergraduate in cairo university
+## Senior engineering student, systems and biomedical department cairo university
 
 - 🌱 I'm passionate to embedded systems, AI and web development.
 - currently I'm focusing in learning Machine learning, Deep learning and Image processing.
