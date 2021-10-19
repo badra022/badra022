@@ -1,15 +1,15 @@
 ### Hi there, I'm Ahmed Mohamed - aka Badra 👋
 [![Linkedin: Ahmed Badra](https://img.shields.io/badge/-Ahmed_Badra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-badra-490b7b165/)](https://www.linkedin.com/in/ahmed-badra-490b7b165/)
 
+> Senior systems and biomedical engineering student @ cairo university, Passionate about embedded systems, AI and full stack web development.
+> I have been developing **mainly** embedded applications and Firmware, targeting 8051, ARM and AVR processors.
+> I have also been developing web applications using Flask, JS, bootstrap, html and css. dealing with databases, Object-oriented design and APIs.
+> I have also been developing desktop gui applications for DSP applications using python-pyqt.
+> Today I'm still working with embedded projects and studying AI.
+
 <div align="center">
-    <img width="500px" alt="hello GIF" src="https://cdn.dribbble.com/users/84109/screenshots/2811872/robot.gif">
+    <img width="500px" alt="hello GIF" src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 </div>
-
-## Senior engineering student, systems and biomedical department cairo university
-
-- 🌱 I'm passionate to embedded systems, AI and web development.
-- currently I'm focusing in learning Machine learning, Deep learning and Image processing.
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
@@ -43,5 +43,7 @@
 
 ### :zap: GitHub Stats
 <img align="left" alt="badra022's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=badra022&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamadanIbrahem98&exclude_repo=statistics-cc-hypothesis-testing,sound-equalizer&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
