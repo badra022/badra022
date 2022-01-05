@@ -1,11 +1,9 @@
 ### Hi there, I'm Ahmed Mohamed - aka Badra 👋
 [![Linkedin: Ahmed Badra](https://img.shields.io/badge/-Ahmed_Badra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-badra-490b7b165/)](https://www.linkedin.com/in/ahmed-badra-490b7b165/)
 
-> Senior systems and biomedical engineering student @ cairo university, Passionate about embedded systems, AI and full stack web development.
+> Senior systems and biomedical engineering student @ cairo university, Passionate about embedded systems and Artificial intelligence.
 > I have been developing **mainly** embedded applications and Firmware, targeting 8051, ARM and AVR processors.
-> I have also been developing web applications using Flask, JS, bootstrap, html and css. dealing with databases, Object-oriented design and APIs.
-> I have also been developing desktop DSP applications using python-pyqt, Machine learning algorithms from scratch in python and machine learning projects using sklearn.
-> Today I'm making my way into AI and data science.
+> these days I'm making my way into AI and data science.
 
 <div align="center">
     <img width="500px" alt="hello GIF" src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
