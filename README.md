@@ -1,9 +1,7 @@
 ### Hi there, I'm Ahmed Mohamed - aka Badra 👋
 [![Linkedin: Ahmed Badra](https://img.shields.io/badge/-Ahmed_Badra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-badra-490b7b165/)](https://www.linkedin.com/in/ahmed-badra-490b7b165/)
 
-> Fresh graduate with systems and biomedical engineering degree, Passionate about embedded software development and machine learning.
-> I have been developing **mainly** embedded applications, Firmware and IOT applications for different microcontroller targets.
-
+> Software Development Engineer in Test @ siemens EDA. life long learner and love growing and learning new technologies, passionate about building high quality, high value and well performing softwares. have been using languages like C, C++, python, js, ts and SQL.
 <div align="center">
     <img width="500px" alt="hello GIF" src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 </div>
